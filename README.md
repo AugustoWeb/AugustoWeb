@@ -1,6 +1,6 @@
 
 <h2>Hello Im José Augusto</h2> 
-<p>I study HTML5 and CSS3</p>
+<p>I study HTML5,CSS3,JavaScript,Git And GitHub</p>
 <p>I'm 22 years old</p>
 <p>I currently live in São Paulo</p>
 <p>Looking for Internship</p>
